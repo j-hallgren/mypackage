@@ -4,6 +4,8 @@
 # mypackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/j-hallgren/mypackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/j-hallgren/mypackage/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackage is to make splitting one string easier.
